@@ -19,9 +19,7 @@ You can run the notebooks in this repo either in your machine or in a cloud plat
 
 | Notebook        | Colab  |
 |-----------------|---|
-| Text classifier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/othrif/deeplearn-2022au-speech-language/blob/main/01_text_classifier.ipynb)  |
-|                 |   |
-|                 |   |
+| Text classifier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/othrif/deeplearn-2022au-speech-language/blob/main/text_classifier.ipynb)  |
 
 
 #### Running locally

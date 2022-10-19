@@ -19,7 +19,7 @@ You can run the notebooks in `notebooks/` either in your machine or in a cloud p
 
 |  Notebook | Colab  |
 |---|---|
-|  First | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb)  |
+|  First | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/othrif/deeplearn-2022au-speech-language/blob/main/01_text_classifier.ipynb)  |
 |   |   |
 |   |   |
 

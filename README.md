@@ -1,6 +1,6 @@
 # Notebooks - Speech and Language Processing - DeepLearn 2022au
 
-This repository contains some accompanying material to the course I am teaching on **Speech and Language Processing in Modern Applications** at [Deep Learn 2022](https://irdta.eu/deeplearn/2022au/) at Lulea University of Technology in Sweden. You can find the course description [here](https://irdta.eu/deeplearn/2022au/blog/speakers/othmane-rifki/)
+This repository contains some accompanying material to the course I am teaching on **Speech and Language Processing in Modern Applications** at [DeepLearn 2022](https://irdta.eu/deeplearn/2022au/) at Lulea University of Technology in Sweden. You can find the course description [here](https://irdta.eu/deeplearn/2022au/blog/speakers/othmane-rifki/)
 
 
 In this repo, you will be able to:
@@ -11,7 +11,7 @@ In this repo, you will be able to:
 
 ### 1. Setup environment
 
-You can run the notebooks in `notebooks/` either in your machine or in a cloud platform with a GPU. I recommend [Google Colab](https://colab.research.google.com/) as most work with large NLP models require a GPU to run in a reasonable amount of time and these cloud services come pre-installed with CUDA.
+You can run the notebooks in this repo either in your machine or in a cloud platform with a GPU. I recommend [Google Colab](https://colab.research.google.com/) as most work with large NLP models require a GPU to run in a reasonable amount of time and these cloud services come pre-installed with CUDA.
 
 #### Running on Google Colab
 

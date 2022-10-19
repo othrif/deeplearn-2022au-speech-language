@@ -7,3 +7,5 @@ umap-learn==0.5.1
 bertviz==1.2.0
 psutil
 accelerate==0.5.1
+gensim
+scikit-learn

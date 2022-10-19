@@ -14,5 +14,7 @@ dependencies:
   - git-lfs
   - libsndfile
   - jupyterlab
+  - jupyter_contrib_nbextensions
+  - nbclassic
   - pip:
       - -r requirements.txt

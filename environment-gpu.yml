@@ -1,0 +1,19 @@
+name: deeplearn-cpu
+channels:
+  - pytorch
+  - defaults
+  - pyg
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch-scatter
+  - pip
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - git-lfs
+  - libsndfile
+  - jupyterlab
+  - cudatoolkit=11.3
+  - pip:
+      - -r requirements.txt
